@@ -24,5 +24,5 @@ int main()
     {
         cout << number << " ";
     }
-
+   // O(nlogn)  n = input
 }
