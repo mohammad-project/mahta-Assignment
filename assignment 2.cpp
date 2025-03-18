@@ -22,4 +22,5 @@ int main()
 	}else {
 		std:: cout << "not found";
 	}
+   // av O(n) worst O(n^2) n = input
 }
