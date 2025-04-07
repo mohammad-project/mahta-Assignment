@@ -1,7 +1,6 @@
 #include <iostream>
 #include <unordered_map>
 #include <string>
-char show(unordered_map)
 int main()
 {
    // Given a string, find the first non-repeating character. If all characters repeat, return -1.
