@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
-
+//You’re given a number n.
+//You need to generate all possible ways to put n pairs of parentheses () in a balanced way.
 void doit(int n, int open, std::string current,std::vector<std::string>& result);
 int main()
 {
