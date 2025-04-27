@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 
 void takeNumber(int* ptr, int size);
 void doubleIt(int* ptr, int size);
